@@ -8,7 +8,7 @@
   "license": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.12.3",
+    "express": "^4.18.2",
     "mjml": "^4.4.0-beta.2",
     "mjml-react": "^1.0.53",
     "mysql2": "^1.6.5",
@@ -18,12 +18,12 @@
     "react-dom": "^16.8.6",
     "sequelize": "^5.8.5",
     "sqlite3": "^4.0.8",
-    "swagger-express-mw": "^0.1.0",
+    "swagger-express-mw": "^0.7.0",
     "tedious": "^6.1.1"
   },
   "devDependencies": {
     "should": "^7.1.0",
-    "supertest": "^1.0.0"
+    "supertest": "^6.3.3"
   },
   "scripts": {
     "start": "node app.js",
